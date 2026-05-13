@@ -9,10 +9,9 @@ The purpose of this repository is to document my learning process and hands-on p
 
 ## 📑 Contents
 - Chapter notebooks  
-- Practice notebooks  
-- Homework assignments  
-- Deep learning experiments  
-
+- Chapter expriments notebooks  
+- practice notebooks
+  
 ## 🛠️ Tools & Technologies
 - Python  
 - TensorFlow / Keras  
