@@ -1,16 +1,17 @@
 # Deep Learning with Python — Practice Repository
 
-This repository contains **notes, exercises, assignments, and notebook implementations** created while studying the book:
+This repository contains **lesson notebooks, practice exercises, and homework assignments** completed while studying the book:
 
 > Deep Learning with Python  
 > by François Chollet
 
-The purpose of this repository is to document my learning process and hands-on practice in deep learning and neural networks using TensorFlow/Keras.
+The purpose of this repository is to document the concepts, implementations, and exercises covered in each lesson throughout the learning process.
 
 ## 📑 Contents
-- Chapter notebooks  
-- Chapter expriments notebooks  
-- practice notebooks
+- Lesson notebooks  
+- Homework assignments  
+- Practice exercises  
+- Deep learning experiments  
   
 ## 🛠️ Tools & Technologies
 - Python  
