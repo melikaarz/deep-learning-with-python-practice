@@ -1,8 +1,7 @@
 # Classifying Movie Reviews
 
-This repository contains a notebook for **binary sentiment classification** of movie reviews using the **IMDB movie reviews dataset**.
-
-The project is based on the material and exercises from **Chapter 2** of *Deep Learning with Python* by François Chollet. It focuses on the core workflow of text classification, including preprocessing, tokenization, sequence padding, vectorization, model building, and evaluation.
+This project is a detailed implementation of the **IMDB Sentiment Analysis** example from **Chapter 2** of the book:
+> **Deep Learning with Python** by François Chollet
 
 ## About the Project
 
