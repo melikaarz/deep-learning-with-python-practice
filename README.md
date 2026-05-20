@@ -1,6 +1,6 @@
 # Deep Learning with Python — Practice Repository
 
-This repository contains ** practice exercises, and homework assignments** completed while studying the book:
+This repository contains **summaries, assignments, and projects** while studying the book:
 
 > Deep Learning with Python  
 > by François Chollet
@@ -29,5 +29,6 @@ Implemented notebooks and exercises so far:
 - Model Evaluation & Validation
 
 ## 📌 Notes
-- Most notebooks are based on exercises and examples from the book.
-- This repository is intended for educational and learning purposes only.
+👨‍🎓 Most notebooks are based on exercises and examples from the book.
+🎯This repository is for **educational purposes**.  
+📂 Contributions and improvements are welcome!  
