@@ -29,6 +29,6 @@ Implemented notebooks and exercises so far:
 - Model Evaluation & Validation
 
 ## 📌 Notes
-👨‍🎓 Most notebooks are based on exercises and examples from the book.
-🎯This repository is for **educational purposes**.  
-📂 Contributions and improvements are welcome!  
+-👨‍🎓 Most notebooks are based on exercises and examples from the book.
+-🎯This repository is for **educational purposes**.  
+-📂 Contributions and improvements are welcome!  
